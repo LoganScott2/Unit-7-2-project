@@ -1,0 +1,70 @@
+ody{
+  width:1200px;
+  font-size: 0;
+}
+div{
+  position: relative;
+}
+/*
+Add your CSS to the ID selectors below
+*/
+#statue{
+position: relative;
+right: 54px;
+z-index: -1;
+}
+
+#ball{
+
+position: relative;
+left: 23px;
+bottom: 124px;
+z-index: 1;
+}
+
+#turnip{
+position: relative;
+top: 261px;
+left: 297px;
+z-index: 1;
+}
+
+#farm{
+position: relative;
+bottom: 150px;
+z-index: -1;
+}
+
+#grass{
+position: relative;
+top: 261px;
+left: 348px;
+z-index: 1;
+}
+
+#tetris{
+position: relative;
+bottom: 550px;
+z-index: -1;
+}
+
+#L{
+position: relative;
+top:1350px;
+left:100px;
+z-index: 1;
+}
+
+#T{
+position: relative;
+top:1548px;
+left:200px;
+z-index: 1;
+}
+
+#I{
+position: relative;
+top:1550px;
+left:499px;
+z-index: 1;
+}
